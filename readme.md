@@ -1,0 +1,1 @@
+Minimum repro for [#27](https://github.com/cascornelissen/svg-spritemap-webpack-plugin/issues/27). Run `npm start` to run Webpack in watch mode. Svg sprites are in /src/svg directory, try to edit one of them while Webpack is in watch mode.
